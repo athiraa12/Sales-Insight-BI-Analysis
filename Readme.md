@@ -22,7 +22,7 @@ The Power BI dashboard includes:
 - 📁 **Dataset** – Sample or anonymized dataset for reference  
 
 ## 📸 Dashboard Preview  
-screenshot
+[image alt] https://github.com/athiraa12/Sales-Insight-BI-Analysis/blob/main/sales%20insight.png?raw=true
 
 ## 📢 How to Use  
 1. Import the provided SQL database into MySQL  
