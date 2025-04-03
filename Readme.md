@@ -19,8 +19,7 @@ The Power BI dashboard includes:
 ## 📂 Files in the Repository  
 - 📁 **SQL Queries** – Contains the MySQL scripts used for ETL and data cleaning  
 - 📁 **Power BI Dashboard (.pbix)** – The interactive dashboard file  
-- 📁 **Dataset** – Sample or anonymized dataset for reference  
-
+- 📁 **Dataset** – Sample 
 ## 📸 Dashboard Preview  
 ![Image](https://github.com/user-attachments/assets/233e28ff-caab-4e10-a15c-afa671e27d07)
 
