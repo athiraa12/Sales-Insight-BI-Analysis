@@ -1,4 +1,4 @@
-# 📊 Dales Insight - Business Intelligence Analysis  
+# 📊 Sales Insight - Business Intelligence Analysis  
 
 ## 🔍 Project Overview  
 This project focuses on analyzing a sales database using **MySQL** and **Power BI** to extract, transform, and visualize key business insights. The analysis helps in understanding revenue trends, sales performance, and customer behavior through interactive dashboards.  
